@@ -8,7 +8,7 @@
 
 ## About Me  
 
-🎓 **Graduate Student in Information and Communication Engineering** at *Noakhali Science and Technology University* (CGPA: **3.90/4.00**, **Ranked 1st in Class**).  
+**Graduate Student in Information and Communication Engineering** at *Noakhali Science and Technology University* (CGPA: **3.90/4.00**, **Ranked 1st in Class**).  
 My research centers on building **robust, interpretable, and efficient AI systems for medical imaging and diagnostics**, emphasizing:  
 - **Explainable machine learning** for clinical decision support  
 - **Lightweight deep learning architectures** for healthcare applications  
@@ -138,8 +138,7 @@ Most research code repositories are maintained as **private** to protect intelle
 - PhD application evaluation
 - Research verification purposes
 
-**Request Access:** [dasnil684@gmail.com](mailto:dasnil684@gmail.com)  
-**Public Resources:** Demo notebooks, architecture visualizations, and result analyses are available in select public repositories.
+**Request Access:** [dasnil684@gmail.com](mailto:dasnil684@gmail.com)
 
 ---
 
