@@ -91,7 +91,7 @@ My research centers on building **robust, interpretable, and efficient AI system
 
 ## Featured Projects  
 
-### [**EMADNet – Bachelor's Thesis**](#)
+### [**EMADNet – Bachelor's Thesis**](https://github.com/NiloyDasML/EMADNet_thesis)
 > **Enhanced Multi-Scale Adaptive Denoising Network** for image restoration  
 - Novel CNN architecture integrating *multi-scale feature extraction* and *dual attention mechanisms*  
 - Handles Gaussian, Salt-and-Pepper, and Speckle noise robustly across datasets  
@@ -100,7 +100,7 @@ My research centers on building **robust, interpretable, and efficient AI system
 
 ---
 
-### [**Hepatitis Prediction with XAI**](#)
+### [**Hepatitis Prediction with XAI**](https://github.com/NiloyDasML/Hepatitis_Research)
 > Explainable ensemble ML framework for hepatitis classification  
 - SHAP-based interpretability & clinically relevant feature discovery  
 - Published in *PLOS ONE* (IF: **3.7**)  
@@ -108,14 +108,14 @@ My research centers on building **robust, interpretable, and efficient AI system
 
 ---
 
-### [**Breast Cancer Diagnosis – PSO-XAI**](#)
+### [**Breast Cancer Diagnosis – PSO-XAI**](https://github.com/NiloyDasML/Breast_cancer_diagnosis_research)
 > Particle Swarm Optimization (PSO) for feature selection in breast cancer detection  
 - Hybrid optimized ML pipeline with explainable outputs  
 - Under review | [arXiv preprint](https://arxiv.org/abs/2510.20611)
 
 ---
 
-### [**Quantum-Classical Hybrid Models**](#)
+### [**Quantum-Classical Hybrid Models**](https://github.com/NiloyDasML/Quantum_classical_analysis)
 > Hybrid framework for *spatiotemporal crime pattern learning*  
 - Implemented using **Qiskit**  
 - Uses *Variational Quantum Circuits (VQE, QAOA)* for efficient pattern extraction  
