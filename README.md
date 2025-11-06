@@ -1,12 +1,12 @@
 # Niloy Das
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](your-orcid-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-url](https://www.linkedin.com/in/niloy-das-239462302/))
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)]([your-orcid-url](https://orcid.org/my-orcid?orcid=0009-0007-0585-2818))
 [![Email](https://img.shields.io/badge/Email-dasnil684@gmail.com-red)](mailto:dasnil684@gmail.com)
 
 ## About Me
 
-Final-year B.Sc. student in Information and Communication Engineering at Noakhali Science and Technology University (CGPA: 3.90/4.00, **Ranked 1st**). My research focuses on developing **robust and interpretable AI systems for medical imaging and diagnostics**, with emphasis on explainable machine learning for clinical decision support and efficient deep learning architectures for healthcare applications.
+Graduate student in Information and Communication Engineering at Noakhali Science and Technology University (CGPA: 3.90/4.00, **Ranked 1st**). My research focuses on developing **robust and interpretable AI systems for medical imaging and diagnostics**, with emphasis on explainable machine learning for clinical decision support and efficient deep learning architectures for healthcare applications.
 
 🎯 **Seeking PhD positions in Computer Science (Fall 2026)** - Healthcare AI & Medical Image Analysis
 
@@ -66,9 +66,6 @@ Hybrid quantum-classical framework for spatiotemporal pattern analysis
 - Implemented using Qiskit
 - Variational quantum circuits (VQE, QAOA) for feature extraction
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 📫 Contact
 
